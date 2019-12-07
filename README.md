@@ -1,2 +1,4 @@
-# robotics-installers
-Installer shell files for robotics tools I often use and need to install multiple times.
+# Robotic installers
+
+Some shell files to install common robotic tools I am too lazy to go through the installation steps each time. Will try to update them and keep adding useful stuff.
+
