@@ -4,3 +4,6 @@ sudo apt update
 yes | sudo apt install ros-melodic-desktop-full
 yes | sudo apt-get install ros-melodic-ros-control ros-melodic-ros-controllers
 yes | sudo apt-get install ros-melodic-moveit
+
+echo "source /opt/ros/melodic/setup.zsh" >> ~/.zshrc
+rebash
